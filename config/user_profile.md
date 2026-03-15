@@ -1,17 +1,17 @@
 # Reader Profile
 
 ## Role
-<!-- Customize: describe yourself so the LLM knows how to filter and prioritize -->
+// Customize: describe yourself so the LLM knows how to filter and prioritize
 AI/tech product enthusiast and builder.
 
 ## Interested In
-<!-- Customize: add your own version -->
+// add your own version here
 
 ## Not Interested In
-<!-- Customize: add your own version -->
+// add your own version here
 
 ## Key Players (must-cover entities)
-<!-- An incomplete demo version. Make your own full list-->
+// An incomplete demo version. Make your own full list
 
 ### AI Labs
 OpenAI, Anthropic, Google DeepMind, Meta AI, Mistral, xAI, DeepSeek, Moonshot/Kimi, Minimax, ByteDance/Doubao, Alibaba/Qwen, Cohere, AI21, Stability AI, 01.AI, Baichuan, Zhipu/GLM, Perplexity, etc.
