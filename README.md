@@ -17,7 +17,7 @@ Your Sources                  Pipeline                     You
 │ AI Blogs (RSS)   │    │  → LLM Memo      │    │              │
 │ Tech Media (RSS) │    │                  │    │  Structured  │
 │ Indie Blogs      │    └──────────────────┘    │  5 sections  │
-│ Reddit           │     09:00 scrape            └──────────────┘
+│ Reddit           │     09:00 scrape           └──────────────┘
 │ Product Hunt     │     09:20 memo generate
 │ Web Search       │
 │ + your own RSS   │
