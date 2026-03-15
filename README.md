@@ -54,7 +54,7 @@ Then ask your OpenClaw agent: **"help me set up multi-source-feed"** — it will
 
 ```bash
 # 1. Clone / 克隆
-git clone https://github.com/Jadeenn/multi-source-feed.git
+git clone https://github.com/zidooong/multi-source-feed.git
 cd multi-source-feed
 
 # 2. Install dependencies / 安装依赖

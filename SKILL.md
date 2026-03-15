@@ -2,7 +2,7 @@
 name: multi-source-feed
 description: Set up and manage an AI-curated daily tech brief from customizable sources. Use when user says "set up multi-source-feed", "configure my daily brief", or "msf setup".
 version: 1.0.0
-metadata: {"openclaw":{"emoji":"📡","requires":{"bins":["python3"],"env":["TAVILY_API_KEY"]},"primaryEnv":"TAVILY_API_KEY","homepage":"https://github.com/Jadeenn/multi-source-feed"}}
+metadata: {"openclaw":{"emoji":"📡","requires":{"bins":["python3"],"env":["TAVILY_API_KEY"]},"primaryEnv":"TAVILY_API_KEY","homepage":"https://github.com/zidooong/multi-source-feed"}}
 ---
 
 # Multi-Source Feed
@@ -16,7 +16,7 @@ When the user asks to set up Multi-Source Feed, follow these steps **in order**.
 ### Step 1: Clone & Install
 
 ```bash
-cd ~ && git clone https://github.com/Jadeenn/multi-source-feed.git
+cd ~ && git clone https://github.com/zidooong/multi-source-feed.git
 cd ~/multi-source-feed
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
@@ -101,7 +101,7 @@ If automated setup fails, provide the user with these commands to run manually:
 
 ```bash
 # 1. Clone
-git clone https://github.com/Jadeenn/multi-source-feed.git && cd multi-source-feed
+git clone https://github.com/zidooong/multi-source-feed.git && cd multi-source-feed
 
 # 2. Install
 python3 -m venv .venv && source .venv/bin/activate
