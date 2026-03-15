@@ -14,6 +14,18 @@ Your Sources → Fetch → Dedup → LLM Memo → Daily Brief (5 sections)
 
 > **Prerequisites / 前提条件:** Python 3.9+, [OpenClaw](https://openclaw.ai), a messaging channel (Telegram, Discord, Feishu, etc.)
 
+### Option A: OpenClaw auto-setup / 自动安装
+
+```bash
+npx clawhub install multi-source-feed
+```
+
+Then tell your OpenClaw agent: **"help me set up multi-source-feed"** — it handles everything below automatically.
+
+然后对 OpenClaw agent 说：**"帮我设置 multi-source-feed"**，它会自动完成以下所有步骤。
+
+### Option B: Manual / 手动安装
+
 ### Step 1 — Install / 安装
 
 ```bash
