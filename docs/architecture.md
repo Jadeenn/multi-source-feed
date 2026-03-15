@@ -77,7 +77,7 @@ Every 2h — OpenClaw cron triggers push/run.sh
      │
      ▼
   LLM filters noteworthy posts
-     Reads: push/user_profile.md → new_posts.json
+     Reads: config/user_profile.md → push/preferences.md → new_posts.json
      │
      ▼
   Send selected posts to user

@@ -152,7 +152,7 @@ Add 4 lines to `config/sources.yaml`:
 
 If the user wants real-time X/Twitter highlights every 2 hours (in addition to the daily brief):
 
-1. Ask the user to customize `push/user_profile.md` with their interests
+1. Ask the user if they want to customize `push/preferences.md` (filtering rules and output format)
 2. Create an OpenClaw cron job (every 2 hours) with this prompt:
 
 ```
@@ -167,7 +167,7 @@ Execute these steps in order:
 
 4. Read push/preferences.md for filtering rules and output format.
 
-5. Read push/user_profile.md to understand what the reader cares about.
+5. Read config/user_profile.md to understand what the reader cares about.
 
 6. Filter and send noteworthy posts following the format in push/preferences.md.
 

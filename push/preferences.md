@@ -2,7 +2,7 @@
 You are monitoring X/Twitter for noteworthy updates to push to the reader in real-time.
 
 ## Reader Profile
-First read `push/user_profile.md` to understand what the reader cares about and what to filter out.
+First read `config/user_profile.md` to understand what the reader cares about and what to filter out. (Shared with the daily brief pipeline — no need to maintain a separate profile.)
 
 ## Input Data
 JSON (`push/new_posts.json`), `posts` array. Each post contains:
@@ -21,7 +21,7 @@ bash push/run.sh
 
 3. Read `push/new_posts.json`. If the `posts` array is empty, stop silently (nothing to push).
 
-4. Read `push/user_profile.md` to understand the reader's interests.
+4. Read `config/user_profile.md` to understand the reader's interests.
 
 5. Filter posts worth pushing immediately:
    - Major product launches, model updates, acquisitions, funding, strategic moves
