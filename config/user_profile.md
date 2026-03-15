@@ -5,10 +5,20 @@
 AI/tech product enthusiast and builder.
 
 ## Interested In
-// add your own version here
+// Example — replace with your own
+- AI product launches, updates, major feature changes
+- Technical breakthroughs that enable new application scenarios (new model capabilities, new interaction paradigms)
+- AI company strategic moves, funding, acquisitions, industry landscape shifts
+- Productization progress across the AI ecosystem
+- New paradigms in developer tools (practically usable ones)
+- Academic breakthroughs with far-reaching impact
 
 ## Not Interested In
-// add your own version here
+// Example — replace with your own
+- Pure infrastructure optimization (GPU communication, cluster scheduling, data center engineering)
+- Low-level frameworks far from product use (sandbox platforms, compilers, test frameworks)
+- Cryptocurrency (unless directly AI-related)
+- Entertainment, sports, politics (unless impacting the tech industry)
 
 ## Key Players (must-cover entities)
 // An incomplete demo version. Make your own full list
