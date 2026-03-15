@@ -100,7 +100,7 @@ Create an OpenClaw cron job that:
 
 ## Adding Sources
 
-The starter `config/sources.yaml` includes a demo set of sources (X, HN, GitHub Trending, AI blogs, tech media, indie blogs, VC blogs, arXiv, Reddit, Product Hunt, Tavily search). **This list has not been thoroughly curated or expanded** — customize it for your own interests.
+The starter `config/sources.yaml` includes a set of sources (X, HN, GitHub Trending, AI blogs, tech media, indie blogs, VC blogs, arXiv, Reddit, Product Hunt, Tavily search). **This list has not been thoroughly curated or expanded** — customize it for your own interests.
 
 Adding a new RSS source = 4 lines, zero code:
 
