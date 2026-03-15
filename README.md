@@ -114,7 +114,7 @@ Adding a new RSS source = 4 lines, zero code:
 
 ---
 
-## X-Push (Optional)
+## Initiate X-Push (Optional)
 
 Real-time X/Twitter highlights every 2 hours, complementing the daily brief with breaking updates.
 
@@ -210,7 +210,7 @@ crontab -e
 
 ---
 
-## 添加源
+## 自定义信息源
 
 默认的 `config/sources.yaml` 包含一组示例源（X、HN、GitHub Trending、AI 博客、科技媒体、独立博客、VC 博客、arXiv、Reddit、Product Hunt、Tavily 搜索）。**这个列表还未经过充分筛选和拓展**，请根据自己的需求增删。
 
@@ -226,7 +226,7 @@ crontab -e
 
 ---
 
-## X-Push（可选）
+## 开启X-Push（可选）
 
 每 2 小时推送 X/Twitter 上的亮点，与每日简报互补，捕捉实时动态。
 
